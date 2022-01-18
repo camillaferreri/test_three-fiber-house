@@ -1,3 +1,6 @@
+Simple test with react-three-fiber creating a 3D house
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
